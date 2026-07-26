@@ -1,1 +1,5 @@
-<img className="avatar" />
+return (
+    <h1>
+        {user.name}
+    </h1>
+);
